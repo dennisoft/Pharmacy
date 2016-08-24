@@ -1,0 +1,5 @@
+#hb{-fx-background-color:blue;}
+#sht{-fx-text-fill:white;}
+#button{-fx-background-color:#36C;-fx-text-fill:white;-fx-border-radius:20px;}
+#button:hover{-fx-background-color:white;}
+#label{-fx-text-fill:#CC0000;-fx-font-size:20px;}
